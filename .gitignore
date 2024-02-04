@@ -10,3 +10,7 @@ debian/patches
 /*.gcov
 /*.gcda
 /*.gcno
+/bazel-bin
+/bazel-cronutils
+/bazel-out
+/bazel-testlogs
